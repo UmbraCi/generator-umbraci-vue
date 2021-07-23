@@ -8,5 +8,8 @@
   },
   "description": "yeoman-generator",
   "repository": "https://github.com/UmbraCi/generator-umbraci-vue.git",
-  "author": "umbraci"
+  "author": "umbraci",
+  "keywords": [
+    "yeoman-generator"
+  ]
 }

@@ -1,0 +1,1 @@
+这是一个用vue cli4创建的项目，整合了eslint和prettier的配置，在VSCODE中如果安装了这两个VSCODE插件，保存代码的时候会自动格式化
